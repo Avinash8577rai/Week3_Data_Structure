@@ -2,7 +2,7 @@ package Day3.Bubblesort;
 import java.util.Scanner;
 public class StudentMarks {
     public static void bubblesort(int[] arr){
-        System.out.print(" Sorted array is: " );
+        System.out.print(" Sorted Student marks is: " );
         for(int i=0; i< arr.length; i++){
             System.out.print(arr[i]+ "  ");
         }
