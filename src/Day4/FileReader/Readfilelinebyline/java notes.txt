@@ -1,0 +1,87 @@
+Capgemini Day 3 
+
+java is developed by Sun Microsystem and now java is owned by oracle.
+Jmaes Gosling is the father of java.
+java first name is oak but after the fear of copyright
+from the oak technologies they change the name and called as "java"
+java developed in mid of 1990.
+
+java is platform inedependent
+ in 1991 java launch the green projecty
+ in 1995 they launch oficilaly for the public use
+......................................................................................
+
+
+ evolution of java over years
+ 1997- java 1.1 javaBeans and JDBC
+ 1998- java 2 swing graphical API, collection framework
+ 2004- java 5 enhanced lops, enumertaed types , metadata.
+ 2006- java 6 focus on Performance, Web Services, Scripting
+ 2011- java 7 dimond operator
+ 2014- java 8 lamda expression , stream API.
+ 2017- java 9 Modularity, Scalability, Performance
+.....................................................................................
+
+ 
+JDK- Java developement kit is complete software development kit requierd to develop the java application
+     compenenets of JDK-
+       java compiler
+       java runtime envorinment(JRE)
+       java debugger
+ 
+JVM- java virtual machine that enables a computer to run java program.
+     it is the runtime environment for java bytecode
+	  
+conponent of JVM-
+   class loader
+   bytecode verifer
+   interpreter
+   garbage collector
+   runtime
+
+JRE- java runtime environment provides the libraries,
+     JVM and other caomponents to run appilaction written in java
+	 it not contain any development tools.
+componemts of JRE-
+    jvm
+    core libraries	
+	
+.......................................................................................
+ Data types-
+            a variable can hold data.it store data , manipulate the data, used in program
+			
+1- Primitive data types: they are fixed in size, hold actual vaules
+     int
+     long
+     float
+     double
+     char
+     boolean	 
+	
+2- Non-Primitive data types: vary in size, store reference of object
+		classes
+		objects
+		arrays
+		interfaces
+		strings
+..........................................................................................
+
+java access modifiers
+	public
+	protected
+	default
+	private
+	
+java Naming Conventions
+	 package-  prefix of a unique package name is always written in all-lowercase anfd top level of domain names.........com.sun.eng
+	 class-    first latter of word is always in capital...........class AvinashSum
+	 method-   should be verbs, mixed first letter lowercase, first letter of each internal word capital............run();runFast();
+	 interface- sdame as class name rule............. AvinashSum
+	 variable- can't start with _ and $ in prefix, mixed with lower and uppercase  ..... Char
+	 constant- all in uppercase with seprated by _ (underscore)    ....MIN_INT  
+	 
+	 
+..............................................................................................................
+
+aanasm
+h,ajh,sd
