@@ -1,11 +1,13 @@
 package Day6.Stringconcatenation;
-import java.util.*;
-public class StringBuilder {
-    public static long concatrnate(int a){
-       StringBuilder result = new StringBuilder();
-        for(int i=0; i<a; i++){
-                result.append("x");
+
+public class StringBuilders {
+    public static long concatenate(int n) {
+        StringBuilder result = new StringBuilder();
+        for (int i = 0; i < n; i++) {
+            result.append("a");
         }
-        return result.length();
+        return result.length(); // Return the length for demonstration purposes
     }
 }
+
+
